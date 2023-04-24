@@ -2,6 +2,9 @@
 
 This is a simple C calculator app that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division, and exponentiation. It also includes the ability to calculate the square root of a number.
 
+### UI
+![EXAMPLE](https://github.com/garbalau-github/calculator/blob/main/EXAMPLE.png?raw=true)
+
 ### Compilation
 
 ```
