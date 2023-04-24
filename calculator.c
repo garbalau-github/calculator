@@ -5,7 +5,7 @@
 #include <ctype.h>
 
 void addYellowColor ();
-void addRedColor ();
+void addRedColor ();x
 void removeColors ();
 void printWelcomeMessage ();
 void printError (char message[]);
